@@ -1,0 +1,34 @@
+{
+  "login": [
+    {
+      "name": "Felix",
+      "email": "727722eucs101@skcet.ac.in",
+      "pass": "Felix",
+      "id": 1
+    },
+    {
+      "name": "Methuna",
+      "email": "727722eucs103@skcet.ac.in",
+      "pass": "123456",
+      "id": 2
+    },
+    {
+      "name": "NIRMALA",
+      "email": "abc@gmail.com",
+      "pass": "22101968",
+      "id": 3
+    },
+    {
+      "name": "Admin",
+      "email": "adminho@gmail.com",
+      "pass": "admin",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "pass": "",
+      "id": 5
+    }
+  ]
+}

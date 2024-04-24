@@ -1,0 +1,31 @@
+body{
+    background-color: beige;
+}
+.data1{
+    background-color: antiquewhite;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 65px;
+}
+.pict{
+    width: 70%;
+}
+.txt{
+    font-family: cursive;
+    width: 30%;
+    float: left;
+    text-align: center;
+    background-color: #fff0fd;
+    justify-content: center;
+    justify-items: center;
+    height: 400px;
+}
+b{
+    color: rgb(226, 43, 220);
+}
+h1{
+    color: #2a7cf7;
+}
+h2{
+    color: black;
+}

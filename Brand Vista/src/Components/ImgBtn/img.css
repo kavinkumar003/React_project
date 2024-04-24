@@ -1,0 +1,10 @@
+.pic{
+    display:flex;
+    padding:2px;
+    gap:50px;
+    margin-top: 0%;
+    margin-bottom:0%;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    background-color: rgb(85, 76, 84);
+}
